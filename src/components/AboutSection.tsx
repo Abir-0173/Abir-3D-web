@@ -20,7 +20,7 @@ export default function AboutSection() {
           >
             <div className="aspect-square rounded-3xl overflow-hidden bg-indigo-50 shadow-xl">
               <img
-                src="https://images.unsplash.com/photo-1607990281513-2c110a25bd8c?w=600&q=80"
+                src="https://avatars.githubusercontent.com/u/70808850?s=400&u=3a1e19328afccea3c2f3706d8a5ce3c768ae8e49&v=4"
                 alt="Developer workspace"
                 className="w-full h-full object-cover"
               />
